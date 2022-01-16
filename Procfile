@@ -1,0 +1,1 @@
+worker: app/src/main/java/me/igor/Bot.java
