@@ -22,7 +22,7 @@ public class Bot {
                         new Listener(),
                         new HelpCommand(),
                         new PingCommand())
-                .setActivity(Activity.listening("dj!help - komendy"))
+                //.setActivity(Activity.listening("dj!help - komendy"))
                 .build();
     }
     public static void main(String[] args) throws LoginException {
